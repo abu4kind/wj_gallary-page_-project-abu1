@@ -1,0 +1,2 @@
+Issues: I was not able to add a background picture or image.
+It was a good test of my knowledge so far as i am a complete novice in this field. it shows that the tutorial really helped gain some impactul insight about HTML and CSS.
